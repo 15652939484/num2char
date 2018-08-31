@@ -26,3 +26,7 @@ neat_round <- function(num,digits=3){  " version 5.0 "
   return(final)
 }
 
+
+##demo
+#test <- c(0,0.3000,-2.5,3.84,-0,-0.000322)
+#neat_round(test,digits = 3)
